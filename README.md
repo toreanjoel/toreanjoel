@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Torean Joel</h1>
 <h3 align="center">Solving real world problems, building scalable, distributed systems currently @Trixta</h3>
 
-<h3>Side Quests:</h3>
+<h3>Main Quests:</h3>
 
 - @Trixta [https://trixta.com/](https://trixta.com/)
 
