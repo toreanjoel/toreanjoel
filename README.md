@@ -24,7 +24,3 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toreanjoel&show_icons=true&locale=en&layout=compact" alt="toreanjoel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toreanjoel&show_icons=true&locale=en" alt="toreanjoel" /></p>
-
