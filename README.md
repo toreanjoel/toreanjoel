@@ -5,7 +5,7 @@
 
 - @Trixta [https://trixta.com/](https://trixta.com/)
 
-- @Waitroom [https://www.waitroom.com/](https://www.waitroom.com/)
+- @Rumi [https://rumi.ai/](https://rumi.ai/)
 
 <h3>Side Quests:</h3>
 
