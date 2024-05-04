@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Torean Joel</h1>
-<h3 align="center">Solving real world problems, building scalable, distributed systems currently @Trixta</h3>
+<h3 align="center">Solving real world problems</h3>
 
 <h3>Main Quests:</h3>
 
-- @Trixta [https://trixta.com/](https://trixta.com/)
-
-- @Rumi [https://rumi.ai/](https://rumi.ai/)
+- [SkimSafe](https://www.skimsafe.se/) 🔐 🇸🇪
 
 <h3>Side Quests:</h3>
 
-- 🌱 I’m currently learning **Elixir, Phoenix, Erlang, JS, TypeScript**
-
-- 💬 Ask me about **Elixir, Phoenix, Erlang, JS, TypeScript**
+- 🌱 I’m currently interested in: **Elixir, Phoenix, Erlang, JS, TypeScript**
+- 👀 Keep a lookout for [leafnode.app](https://www.leafnode.app/) 🔗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/torean-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torean-joel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3177917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3177917" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tool Preferences:</h3>
