@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Torean Joel</h1>
-<h3 align="center">Solving real world problems</h3>
-
 <h3>Main Quests:</h3>
 
 - [SkimSafe](https://www.skimsafe.se/) 🔐 🇸🇪
