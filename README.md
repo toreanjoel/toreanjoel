@@ -3,7 +3,7 @@
 
 - [SkimSafe](https://www.skimsafe.se/) 🔐 🇸🇪
 
-<h3>Quests:</h3>
+<h3>Side Quests:</h3>
 
 - 🌱 I’m currently interested in: **Elixir, Phoenix, Erlang, JS, TypeScript**
 - 👀 Keep a lookout for [leafnode.app](https://www.leafnode.app/) 🔗
