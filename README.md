@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Torean Joel</h1>
+<h1 align="center">Hello 👋, I'm Torean Joel</h1>
 <h3>Main Quests:</h3>
 
 - [SkimSafe](https://www.skimsafe.se/) 🔐 🇸🇪
@@ -8,7 +8,7 @@
 - 🌱 I’m currently interested in: **Elixir, Phoenix, Erlang**
 - 👀 Keep a lookout for [get.leafnode.app](https://get.leafnode.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/torean-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torean-joel" height="30" width="40" /></a>
 </p>
