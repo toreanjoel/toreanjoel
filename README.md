@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Torean Joel</h1>
-<h3>Main Quests:</h3>
+<h3>Main Quest:</h3>
 
 - [SkimSafe](https://www.skimsafe.se/) 🔐 🇸🇪
 
