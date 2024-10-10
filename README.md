@@ -6,7 +6,6 @@
 <h3>Side Quests:</h3>
 
 - 🌱 I’m currently interested in: **Elixir, Phoenix, Erlang**
-- 👀 Keep an eye out for [use.leafnode.app](https://use.leafnode.app/)
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
