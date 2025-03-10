@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 - I'm Torean Joel</h1>
 <h3>Main Quest:</h3>
 
-- [SkimSafe](https://www.skimsafe.se/) 🔐 🇸🇪
+- [Trixta](https://trixta.ai) 🔐🤖
 
 <h3>Side Quests:</h3>
 
