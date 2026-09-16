@@ -5,7 +5,7 @@
 
 <h3>Side Quests:</h3>
 
-- 🌱 I’m currently interested in: **Elixir, Phoenix, Erlang**
+- 🌱 I’m currently interested in: **Tech / Coffee**
 - 🚧 <a href="https://nullhaven.studio/" target="_blank" rel="noreferrer">My Experiments<a/>
 
 <h3 align="left">Let's Connect:</h3>
